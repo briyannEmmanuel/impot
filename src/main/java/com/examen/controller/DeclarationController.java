@@ -7,6 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 
 import java.util.List;
@@ -32,6 +33,14 @@ public class DeclarationController {
     @PostMapping("/addDeclaration")
     public String AjouterDeclaration(Declaration declaration){
         declarationRepository.save(declaration);
+        return "redirect:/declaration";
+    }
+
+    @GetMapping("/deleteDeclaration/{id}")
+    public String deleteDeclaration(@PathVariable Long id) {
+        // Supprimez la déclaration de la base de données
+      declarationRepository.deleteById(id);
+
         return "redirect:/declaration";
     }
 

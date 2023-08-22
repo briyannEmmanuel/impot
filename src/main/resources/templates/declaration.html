@@ -119,6 +119,7 @@
                     <th>date Declaration</th>
                     <th>montant Declaration</th>
                     <th>declarant</th>
+                    <th>action</th>
                 </tr>
                 </thead>
                 <tbody>
@@ -126,6 +127,10 @@
                     <td th:text="${declaration.dateDeclaration}"></td>
                     <td th:text="${declaration.montantDeclaration}"></td>
                     <td th:text="${declaration.declarantId.raisonSociale}"></td>
+                    <td>
+                        <a th:href = "@{/deleteDeclaration/{id}(id=${declaration.id})}"
+                           class = "btn btn-danger">Delete</a>
+                    </td>
                 </tr>
 
                 </tbody>

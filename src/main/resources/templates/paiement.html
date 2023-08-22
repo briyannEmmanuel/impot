@@ -121,6 +121,7 @@
                     <th>date Paiement</th>
                     <th>montant Paiement</th>
                     <th>declaration</th>
+                    <th>action</th>
                 </tr>
                 </thead>
                 <tbody>
@@ -128,6 +129,10 @@
                         <td th:text="${paye.datePaiement}"></td>
                         <td th:text="${paye.montantPaiement}"></td>
                         <td th:text="${paye.declaration.dateDeclaration}"></td>
+                        <td>
+                            <a th:href = "@{/deletePaiement/{id}(id=${paye.id})}"
+                               class = "btn btn-danger">Delete</a>
+                        </td>
                     </tr>
                 </tbody>
             </table>
