@@ -1,4 +1,7 @@
-* projet spring sur les impots 
+* projet spring sur les impots
+![00](https://github.com/briyannEmmanuel/impot/assets/95581637/db8bf101-cbd0-4cc7-890e-7fd19a26fd48)
+![0](https://github.com/briyannEmmanuel/impot/assets/95581637/10208ee1-51f5-4aa2-9e6c-89ce5d682ba9)
+
 * nous avons la page d'accueil en premier 
 ![1](https://github.com/briyannEmmanuel/impot/assets/95581637/53a06fbc-8d4a-44bc-bb49-a31b608d3bc3)
 
