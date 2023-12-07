@@ -1,22 +1,33 @@
-* projet spring sur les impots
-![00](https://github.com/briyannEmmanuel/impot/assets/95581637/db8bf101-cbd0-4cc7-890e-7fd19a26fd48)
-![0](https://github.com/briyannEmmanuel/impot/assets/95581637/10208ee1-51f5-4aa2-9e6c-89ce5d682ba9)
+# CREATION COMPTE SONARCLOUD
+![1](https://github.com/briyannEmmanuel/impot/assets/95581637/61248f95-0f1f-433a-bdac-63bbcc88e491)
 
-* nous avons la page d'accueil en premier 
-![1](https://github.com/briyannEmmanuel/impot/assets/95581637/53a06fbc-8d4a-44bc-bb49-a31b608d3bc3)
+# AUTENTIFICATION AVEC GITHUB
+![2](https://github.com/briyannEmmanuel/impot/assets/95581637/5f3e3f88-aa41-4094-856e-8d625e8b93c1)
 
-* Nous avons la page des declarants avec possibilité d'ajouter ,lister et supprimer les declarants
-![2](https://github.com/briyannEmmanuel/impot/assets/95581637/f17beb9c-c689-49f9-84af-fd65d1821256)
+# IMPORTATION D'UNE ORGANISATION ET ACCUEIL
+![3](https://github.com/briyannEmmanuel/impot/assets/95581637/cabdfeae-4ecd-43a2-8374-91e5405bbfaf)
 
-* Nous avons la page des declarations avec possibilité d'ajouter ,lister et supprimer les declarations
-![3](https://github.com/briyannEmmanuel/impot/assets/95581637/45335792-af83-475c-8eac-b987bdcdd8c8)
+# CHOIX DU PROJET SUR GIT  
+![4](https://github.com/briyannEmmanuel/impot/assets/95581637/750554e4-834c-411a-8db1-dc5c08ebb3f2)
 
-* Nous avons la page des paiements avec possibilité d'ajouter ,lister et supprimer les paiements
-![4](https://github.com/briyannEmmanuel/impot/assets/95581637/f37abdd6-ad54-43b1-9b5b-a4a8b5a9863e)
+# LE CHOIX DE VERSION 
+À ce stade, le choix se résume entre opter pour la "version précédente" pour les projets qui bénéficient fréquemment de nouvelles versions,
+ou sélectionner le critère "nombre de jours" pour les projets organisés en sprints, où la livraison doit s'effectuer à intervalles réguliers de x jours.
 
-* Nous pouvons supprimer aussi. Voici un exemple de capture pour la suppression et c'est pareil pour le reste des pages.
-* le declarant avec ID=4 est supprimé.
-* sa declaration et son paiement aussi 
-![5](https://github.com/briyannEmmanuel/impot/assets/95581637/20b19244-5743-4f0f-bf8e-dd1785a07949)
-![6](https://github.com/briyannEmmanuel/impot/assets/95581637/affbbced-a1cd-40e9-ab27-12341e6cb8e8)
-![7](https://github.com/briyannEmmanuel/impot/assets/95581637/b9464a69-c574-4010-a751-f87ea45217f3)
+Dans notre contexte, nous avons choisi la première option et procédé à la création du projet, une démarche largement satisfaisante.
+Dans ce scénario, SonarCloud réalise une première analyse et fournit des retours.
+
+![5](https://github.com/briyannEmmanuel/impot/assets/95581637/ebb4f26f-8024-4e57-819e-61ed1401da0c)
+
+# ANALYSE ET RESULTATS DU PROJET 
+
+![7](https://github.com/briyannEmmanuel/impot/assets/95581637/4b0e72b9-120c-4d66-b2d6-731e58186b6e)
+
+# MAIN BRANCH 
+![8](https://github.com/briyannEmmanuel/impot/assets/95581637/1b6bb829-2c2f-4598-9347-7a7ef5d42b88)
+
+# MAIN BRANCH STATUS
+
+![9](https://github.com/briyannEmmanuel/impot/assets/95581637/84c46e41-4f77-4904-9bdf-b95137ec2b1c)
+
+
